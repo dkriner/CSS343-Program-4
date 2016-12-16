@@ -1,0 +1,37 @@
+void Store::processCommands()
+{
+	/*for(int i = 0; i < commands.size; i++) {
+	
+	getCommand(i);
+
+	if(commandType = B)
+
+		process ID to determine customer
+		process title/actor etc. to determine movie exists
+		check movie num_copies > 0
+		
+		Customer.addTransaction(Borrow(Movie))		<- inside this function we check customer movies to make sure it's not already rented
+		if(successful)									add the movie to their vector<movie> borrows
+			Movie.num_copies--;
+
+	else if(commandType = R)
+
+		process ID to determine customer
+		process to determine movie
+
+		Customer.addTransaction(Return(Movie))		<- inside check customer movies to make sure they were truly borrowing it
+		if(successful)
+			Movie.numCopies++;
+
+	else if (commandType = H)
+		process ID to determine customer
+
+		Customer.printTransactionHistory();				<- print from the back of their transaction list to the front
+
+	else (commandType = I)
+		inventory.sort();
+		inventory.print();
+
+	}
+		*/
+}
